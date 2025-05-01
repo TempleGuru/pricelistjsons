@@ -1,4 +1,26 @@
 {
-    "title" : "Test",
-    "description": "Description"
+    "id":9191,
+    "title" : "Shop name",
+    "description": ["We offer hair styling with affordable price.",
+                    "Time: 7AM to 9PM (Monday - Sunday).",
+                     "Check the pricelist below."],
+    "items":[
+        {
+            "id": 1,
+            "name": "Hair Cut",
+            "price": 120.00
+            
+        },
+        {
+            "id": 2,
+            "name": "Shave",
+            "price": 80.00
+            
+        },
+        {
+            "id": 3,
+            "name": "Special Hair Style",
+            "price": 250.00
+        }
+    ]
 }
