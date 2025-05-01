@@ -8,19 +8,43 @@
         {
             "id": 1,
             "name": "Hair Cut",
-            "price": 120.00
+            "price": 120.00,
+            "group": "men"
             
         },
         {
             "id": 2,
             "name": "Shave",
-            "price": 80.00
+            "price": 80.00,
+            "group": "men"
             
         },
         {
             "id": 3,
             "name": "Special Hair Style",
-            "price": 250.00
+            "price": 250.00,
+            "group": "men"
+        },
+        {
+            "id": 4,
+            "name": "Hair Cut",
+            "price": 120.00,
+            "group": "women"
+            
+        },
+        {
+            "id": 2,
+            "name": "Hari Spa",
+            "price": 300.00,
+            "group": "women"
+            
+        },
+        {
+            "id": 3,
+            "name": "Special Hair Style",
+            "price": 250.00,
+            "group": "women"
         }
+
     ]
 }
