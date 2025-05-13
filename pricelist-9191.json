@@ -5,6 +5,7 @@
                     "Check the pricelist below."],
     "description": ["We offer fresh Vegetables and fruits at affordable prices.",
                     "Time: 7AM to 9PM (Monday - Sunday)."],
+    "address": "1-3, Sri Krishna Temple Road, Garudachar Palya,Mahadevpura, Bengaluru,Pin : 560048",
     "items":[
         {
             "id": 1,
