@@ -1,0 +1,64 @@
+{
+    "id":9191,
+    "title" : "Shop name",
+    "offers": ["Extra 5% off on all Vegetables and Fruits.",
+                    "Check the pricelist below."],
+    "description": ["We offer fresh Vegetables and fruits at affordable prices.",
+                    "Time: 7AM to 9PM (Monday - Sunday)."],
+    items":[
+        {
+            "id": 1,
+            "name": "Onions 1KG",
+            "price": 25.00,
+            "group": "veg"
+            
+        },
+        {
+            "id": 2,
+            "name": "Green Chilli 100g",
+            "price": 10.00,
+            "group": "veg"
+            
+        },
+        {
+            "id": 3,
+            "name": "Potato 1KG",
+            "price": 20.00,
+            "group": "veg"
+        },
+        {
+            "id": 4,
+            "name": "Lemon 1PC",
+            "price": 5.00,
+            "group": "veg"
+            
+        },
+        {
+            "id": 5,
+            "name": "Tomato 1KG",
+            "price": 15.00,
+            "group": "veg"
+            
+        },
+        {
+            "id": 6,
+            "name": "Corrindor 1 bunch",
+            "price": 30.00,
+            "group": "veg"
+        },
+      {
+            "id": 7,
+            "name": "Apples (Desi) 1KG",
+            "price": 250.00,
+            "group": "fru"
+            
+        },
+        {
+            "id": 8,
+            "name": "Banana 1KG 1KG",
+            "price": 45.00,
+            "group": "veg"
+        }
+
+    ]
+}
