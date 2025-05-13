@@ -35,14 +35,14 @@
             
         },
         {
-            "id": 2,
+            "id": 5,
             "name": "Hari Spa",
             "price": 300.00,
             "group": "women"
             
         },
         {
-            "id": 3,
+            "id": 6,
             "name": "Special Hair Style",
             "price": 250.00,
             "group": "women"
