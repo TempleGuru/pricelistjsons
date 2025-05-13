@@ -5,7 +5,7 @@
                     "Check the pricelist below."],
     "description": ["We offer fresh Vegetables and fruits at affordable prices.",
                     "Time: 7AM to 9PM (Monday - Sunday)."],
-    items":[
+    "items":[
         {
             "id": 1,
             "name": "Onions 1KG",
