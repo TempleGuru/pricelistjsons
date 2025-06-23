@@ -82,7 +82,30 @@
             "name": "Package 1",
             "price": 199.00,
             "actprice": 380.00,
-            "group": "package"
+            "group": "package",
+            "subitems":[
+                {
+                "id": 121,
+                "name": "Hair Cut",
+                "price": 100.00,
+                "group": "men"
+                
+                },
+                {
+                    "id": 122,
+                    "name": "Shaving",
+                    "price": 70.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 123,
+                    "name": "Head Massage",
+                    "price": 150.00,
+                    "group": "men"
+                }
+
+            ]
         },
         {
             "id": 13,
@@ -114,7 +137,7 @@
         },
          {
             "id": 16,
-            "name": "Package 4",
+            "name": "Package 6",
             "price": 1399.00,
             "actprice": 1920.00,
             "group": "package"
