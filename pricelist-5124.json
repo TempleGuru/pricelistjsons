@@ -82,42 +82,42 @@
             "name": "Package 1",
             "price": 199.00,
             "actprice": 380.00,
-            "group": "men"
+            "group": "package"
         },
         {
             "id": 13,
             "name": "Package 2",
             "price": 399.00,
             "actprice": 680.00,
-            "group": "men"
+            "group": "package"
         },
         {
             "id": 14,
             "name": "Package 3",
             "price": 699.00,
             "actprice": 920.00,
-            "group": "men"
+            "group": "package"
         },
         {
             "id": 15,
             "name": "Package 4",
             "price": 899.00,
             "actprice": 1320.00,
-            "group": "men"
+            "group": "package"
         },
          {
             "id": 16,
             "name": "Package 5",
             "price": 1099.00,
             "actprice": 1520.00,
-            "group": "men"
+            "group": "package"
         },
          {
             "id": 16,
             "name": "Package 4",
             "price": 1399.00,
             "actprice": 1920.00,
-            "group": "men"
+            "group": "package"
         }
 
     ]
