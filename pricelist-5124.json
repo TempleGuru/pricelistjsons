@@ -55,29 +55,70 @@
         },
         {
             "id": 8,
-            "name": "Type 5 Facials",
+            "name": "Type 5 Premium Facials",
             "price": 1000.00,
             "group": "men"
         },
         {
             "id": 9,
             "name": "Hair Colour",
-            "price": 300,
+            "price": 300.00,
             "group": "men"
         },
         {
             "id": 10,
             "name": "Hair Colour Streax",
-            "price": 400,
+            "price": 400.00,
             "group": "men"
         },
         {
             "id": 11,
-            "name": "Hair Colour Streax",
-            "price": 400,
+            "name": "Hair Colour Loreal",
+            "price": 600.00,
+            "group": "men"
+        },
+        {
+            "id": 12,
+            "name": "Package 1",
+            "price": 199.00,
+            "actprice": 380.00,
+            "group": "men"
+        },
+        {
+            "id": 13,
+            "name": "Package 2",
+            "price": 399.00,
+            "actprice": 680.00,
+            "group": "men"
+        },
+        {
+            "id": 14,
+            "name": "Package 3",
+            "price": 699.00,
+            "actprice": 920.00,
+            "group": "men"
+        },
+        {
+            "id": 15,
+            "name": "Package 4",
+            "price": 899.00,
+            "actprice": 1320.00,
+            "group": "men"
+        },
+         {
+            "id": 16,
+            "name": "Package 5",
+            "price": 1099.00,
+            "actprice": 1520.00,
+            "group": "men"
+        },
+         {
+            "id": 16,
+            "name": "Package 4",
+            "price": 1399.00,
+            "actprice": 1920.00,
             "group": "men"
         }
-        
 
     ]
 }
