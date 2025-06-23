@@ -47,6 +47,20 @@
             "name": "Special Hair Style",
             "price": 250.00,
             "group": "women"
+        },
+        {
+            "id": 7,
+            "name": "Package 1",
+            "price": 199,
+            "actprice": 380,
+            "group": "package"
+        },
+        {
+            "id": 8,
+            "name": "Package 2",
+            "price":680,
+            "actprice": 399,
+            "group": "package"
         }
 
     ]
