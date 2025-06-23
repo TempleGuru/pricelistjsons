@@ -112,7 +112,35 @@
             "name": "Package 2",
             "price": 399.00,
             "actprice": 680.00,
-            "group": "package"
+            "group": "package",
+            "subitems":[
+                {
+                    "id": 131,
+                    "name": "Hair Cut",
+                    "price": 100.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 132,
+                    "name": "Shaving",
+                    "price": 70.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 133,
+                    "name": "Head Massage",
+                    "price": 150.00,
+                    "group": "men"
+                },
+                {
+                    "id": 134,
+                    "name": "Clean up/Bleach/Detan",
+                    "price": 300.00,
+                    "group": "men"
+                }
+            ]
         },
         {
             "id": 14,
