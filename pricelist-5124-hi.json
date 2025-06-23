@@ -12,6 +12,7 @@
             "id": 1,
             "name": "हेयर कट",
             "price": 120.00,
+            "actprice": 150.00,
             "group": "men"
         },
         {

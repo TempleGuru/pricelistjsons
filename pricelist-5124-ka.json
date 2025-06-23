@@ -12,6 +12,7 @@
             "id": 1,
             "name": "ಹೆರ್ ಕಟ್",
             "price": 120.00,
+            "actprice": 150.00,
             "group": "men"
         },
         {

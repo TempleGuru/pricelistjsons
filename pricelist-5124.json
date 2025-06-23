@@ -11,6 +11,7 @@
             "id": 1,
             "name": "Hair Cut",
             "price": 120.00,
+            "actprice": 150.00,
             "group": "men"
             
         },
