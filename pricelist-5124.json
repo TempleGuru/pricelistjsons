@@ -10,58 +10,74 @@
        {
             "id": 1,
             "name": "Hair Cut",
-            "price": 120.00,
-            "actprice": 150.00,
+            "price": 100.00,
             "group": "men"
             
         },
         {
             "id": 2,
-            "name": "Shave",
-            "price": 80.00,
+            "name": "Shaving",
+            "price": 70.00,
             "group": "men"
             
         },
         {
             "id": 3,
-            "name": "Special Hair Style",
-            "price": 250.00,
+            "name": "Head Massage",
+            "price": 150.00,
             "group": "men"
         },
         {
             "id": 4,
-            "name": "Hair Cut",
-            "price": 120.00,
-            "group": "women"
+            "name": "Clean up/Bleach/Detan",
+            "price": 300.00,
+            "group": "men"
             
         },
         {
             "id": 5,
-            "name": "Hari Spa",
-            "price": 300.00,
-            "group": "women"
+            "name": "Type 1 Facials",
+            "price": 600.00,
+            "group": "men"
             
         },
         {
             "id": 6,
-            "name": "Special Hair Style",
-            "price": 250.00,
-            "group": "women"
+            "name": "Type 2 Facials",
+            "price": 700.00,
+            "group": "men"
         },
         {
             "id": 7,
-            "name": "Package 1",
-            "price": 199,
-            "actprice": 380,
-            "group": "package"
+            "name": "Type 3 Facials",
+            "price": 800.00,
+            "group": "men"
         },
         {
             "id": 8,
-            "name": "Package 2",
-            "price":680,
-            "actprice": 399,
-            "group": "package"
+            "name": "Type 5 Facials",
+            "price": 1000.00,
+            "group": "men"
+        },
+        {
+            "id": 9,
+            "name": "Hair Colour",
+            "price": 300,
+            "group": "men"
+        },
+        {
+            "id": 10,
+            "name": "Hair Colour Streax",
+            "price": 400,
+            "group": "men"
+        },
+        {
+            "id": 11,
+            "name": "Hair Colour Streax",
+            "price": 400,
+            "group": "men"
         }
+        
 
     ]
 }
