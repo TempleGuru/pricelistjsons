@@ -1,6 +1,6 @@
 {
     "id":5124,
-    "title" : "My Shop Name",
+    "title" : "M2 Zion Unisex Salon",
     "offers": ["Extra 10% off on all Services",
                     "Check the pricelist below."],
     "description": ["We offer hair styling with affordable price.",
@@ -169,6 +169,13 @@
             "price": 1399.00,
             "actprice": 1920.00,
             "group": "package"
+        },
+        {
+            "id": 18,
+            "name": "Package 6",
+            "price": 1399.00,
+            "actprice": 1920.00,
+            "group": "women"
         }
 
     ]
