@@ -147,28 +147,159 @@
             "name": "Package 3",
             "price": 699.00,
             "actprice": 920.00,
-            "group": "package"
+            "group": "package",
+            "subitems":[
+                {
+                    "id": 141,
+                    "name": "Hair Cut",
+                    "price": 100.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 142,
+                    "name": "Shaving",
+                    "price": 70.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 143,
+                    "name": "Head Massage",
+                    "price": 150.00,
+                    "group": "men"
+                },
+                {
+                    "id": 144,
+                    "name": "Type 1 Facials",
+                    "price": 600.00,
+                    "group": "men"
+                }
+            ]
         },
         {
             "id": 15,
             "name": "Package 4",
             "price": 899.00,
             "actprice": 1320.00,
-            "group": "package"
+            "group": "package",
+            "subitems":[
+                {
+                    "id": 151,
+                    "name": "Hair Cut",
+                    "price": 100.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 152,
+                    "name": "Shaving",
+                    "price": 70.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 153,
+                    "name": "Head Massage",
+                    "price": 150.00,
+                    "group": "men"
+                },
+                {
+                    "id": 154,
+                    "name": "Type 2 Facials",
+                    "price": 700.00,
+                    "group": "men"
+                },
+                 {
+                    "id": 155,
+                    "name": "Hair Colour",
+                    "price": 300.00,
+                    "group": "men"
+                }
+            ]
         },
          {
             "id": 16,
             "name": "Package 5",
             "price": 1099.00,
             "actprice": 1520.00,
-            "group": "package"
+            "group": "package",
+            "subitems":[
+                {
+                    "id": 161,
+                    "name": "Hair Cut",
+                    "price": 100.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 162,
+                    "name": "Shaving",
+                    "price": 70.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 163,
+                    "name": "Head Massage",
+                    "price": 150.00,
+                    "group": "men"
+                },
+                {
+                    "id": 164,
+                    "name": "Type 3 Facials",
+                    "price": 800.00,
+                    "group": "men"
+                },
+                 {
+                    "id": 165,
+                    "name": "Hair Colour Streax",
+                    "price": 400.00,
+                    "group": "men"
+                }
+            ]
+            
         },
          {
             "id": 17,
             "name": "Package 6",
             "price": 1399.00,
             "actprice": 1920.00,
-            "group": "package"
+            "group": "package",
+            "subitems":[
+                {
+                    "id": 171,
+                    "name": "Hair Cut",
+                    "price": 100.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 172,
+                    "name": "Shaving",
+                    "price": 70.00,
+                    "group": "men"
+                    
+                },
+                {
+                    "id": 173,
+                    "name": "Head Massage",
+                    "price": 150.00,
+                    "group": "men"
+                },
+                {
+                    "id": 174,
+                    "name": "Type 5 Premium Facials",
+                    "price": 1000.00,
+                    "group": "men"
+                },
+                 {
+                    "id": 175,
+                    "name": "Hair Colour Loreal",
+                    "price": 600.00,
+                    "group": "men"
+                }
+            ]
         },
         {
             "id": 18,
